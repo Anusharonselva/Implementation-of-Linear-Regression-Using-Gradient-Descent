@@ -88,19 +88,16 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
+![3](https://github.com/Anusharonselva/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405600/7ca6539d-3e15-402b-8e13-2d4fd215c7e4)
 
-![1 1](https://user-images.githubusercontent.com/119405600/237010677-bbf20458-6638-415c-b8d5-75dd5335873c.png)
 
-![1 2](https://user-images.githubusercontent.com/119405600/237010728-f630d426-e11c-4751-a74d-519a4bd7ddfd.png)
+![3 1](https://github.com/Anusharonselva/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405600/b8aa60b9-8d40-473c-bcf8-2d0781941027)
 
-![3 1](https://github.com/Anusharonselva/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405600/939d40e7-3ac0-4f6b-a653-8595b8704308)
+![3 2](https://github.com/Anusharonselva/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405600/cc72ae0d-5d7a-4a8f-b7c1-122e82b1093d)
 
-![Screenshot (126)](https://user-images.githubusercontent.com/119405600/237010633-75741a5e-8410-4552-b22a-184c32d4e0ab.png)
+![3 4](https://github.com/Anusharonselva/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405600/0fc45765-ec71-46e9-9711-4eb866cdcff5)
 
-![1 5](https://user-images.githubusercontent.com/119405600/237010753-c41a05f6-51c7-44c7-92e6-50fedfcb4ef3.png)
-
-![1 6](https://user-images.githubusercontent.com/119405600/237010762-ddb65f8f-e5e2-4acf-bb0b-4196fbb7d8b6.png)
-
+![3 5](https://github.com/Anusharonselva/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405600/873cef20-1538-4cca-b319-ee32efa86bac)
 
 
 ## Result:
