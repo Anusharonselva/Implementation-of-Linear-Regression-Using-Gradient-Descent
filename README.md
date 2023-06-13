@@ -97,9 +97,10 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ![3 2](https://github.com/Anusharonselva/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405600/cc72ae0d-5d7a-4a8f-b7c1-122e82b1093d)
 
-![3 4](https://github.com/Anusharonselva/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405600/0fc45765-ec71-46e9-9711-4eb866cdcff5)
+![Screenshot (286)](https://github.com/Anusharonselva/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405600/edfaf368-94c7-47f0-9c25-72824f2aecb1)
 
-![3 5](https://github.com/Anusharonselva/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405600/873cef20-1538-4cca-b319-ee32efa86bac)
+![Screenshot (286) 1](https://github.com/Anusharonselva/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405600/53379a61-63ba-4f27-9934-15ee15816cad)
+
 
 
 ## Result:
